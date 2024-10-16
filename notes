@@ -1,0 +1,14 @@
+cin and cout are not fucntions, they are global objects
+
+
+
+***    redundancy is the repeating of codes which have been written multiple times where as it could be done only once 
+
+
+
+*** numbers, alphabets == literals, their values dont change...
+
+*** return statement should be the last statement in a fucntion
+
+*** --- pass by value - copy of the argument is passed to the fucntion  --- lec5.cpp
+
